@@ -1,0 +1,12 @@
+{
+  "lesson": 16,
+  "application": "Interactive Question Desk",
+  "mode": "offline_teaching_fixture",
+  "status": "complete",
+  "result": {
+    "question": "Explain an async iterator to a beginner.",
+    "answer": "An async iterator produces values over time. Use async for to wait for each value.",
+    "conversation": "This submission is stateless."
+  },
+  "measured_cost_usd": null
+}

@@ -1,0 +1,15 @@
+{
+  "lesson": 16,
+  "title": "Building Interactive Agents with a UI",
+  "application": "Interactive Question Desk",
+  "purpose": "Connect a Gradio textbox to an asynchronous agent adapter with progressive text updates and explicit blank-input handling.",
+  "exercise": "Launch ui.py and test blank input and a longer question. Confirm that the final answer is not appended twice.",
+  "source_topics": [
+    "01-Connect-the-Browser-to-Your-Agent.png",
+    "02-Write-the-Async-Agent-Adapter.png",
+    "03-Wire-the-Gradio-Components.png",
+    "04-Stream-Updates-with-yield.png",
+    "05-Choose-Conversation-State.png",
+    "06-Launch-and-Test-the-Local-App.png"
+  ]
+}
